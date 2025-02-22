@@ -1,0 +1,1001 @@
+Symptom,Disease
+headache,Low Blood Sugar
+extreme fatigue,Parkinson's Disease
+dizziness,Electrolyte Imbalance
+swollen joints,Laryngitis
+itchy scalp,Parkinson's Disease
+tightness in chest,Laryngitis
+shaking hands,Gout
+nausea and dizziness,Ascites
+dizziness,Angina
+red spots on skin,Colorectal Cancer
+chronic fatigue,Allergy
+vomiting,Low Blood Sugar
+liver pain,Hyperhidrosis
+painful abdomen,Seizures
+sore throat,Shingles
+cramps,COPD
+chronic bloating,Allergic Conjunctivitis
+painful mouth sores,Vitamin C Deficiency
+persistent diarrhea,Glaucoma
+intense pain in legs,Tonsillitis
+cramps,Meningitis
+coughing up blood,Celiac Disease
+blurry vision,Irritable Bowel Syndrome
+frequent urination,Aphthous Stomatitis
+joint swelling,Diabetes
+bloody stool,Lung Cancer
+swollen joints,Laryngitis
+stiffness in muscles,Laryngitis
+burning sensation in chest,Asthma
+frequent thirst,Ascites
+unexplained weight loss,Tremors
+skin discoloration,Allergic Reaction
+hoarseness,Hyperlipidemia
+numb fingers,Arrhythmia
+pain in ribs,Ascites
+pain in the chest,Seizures
+pain in the chest,Seizures
+weak pulse,Vestibular Disorder
+unexplained weight loss,Psoriasis
+sore throat,Shingles
+painful stomach,Eczema
+fainting,Diabetes
+sore throat,Osteoarthritis
+heart palpitations,Sciatica
+feeling anxious,Asthma
+excessive hunger,Osteoarthritis
+blurry vision,Cyanosis
+abdominal bloating,Aphthous Stomatitis
+difficulty swallowing,Typhoid
+painful urination,Arrhythmia
+blue skin,Achalasia
+blurry vision,Lymphoma
+itchy eyes,Vitamin C Deficiency
+shaking hands,Macular Degeneration
+severe headache,Endometriosis
+pain behind eyes,Pneumonia
+shortness of breath,Cataracts
+vomiting,Angina
+painful skin,Diabetic Neuropathy
+tiredness,Diabetes
+stiff neck,Bronchitis
+difficulty breathing,Irritable Bowel Syndrome
+rash,Diabetes
+excessive thirst,Hypothyroidism
+painful urination,Urinary Tract Infection
+leg swelling,Hyperthyroidism
+itchy eyes,Gingivitis
+liver pain,Leukemia
+dry eyes,Gastritis
+rash,Deep Vein Thrombosis
+lump in breast,Myositis
+headache and nausea,Electrolyte Imbalance
+cold hands,Raynaud's Disease
+coughing up mucus,Heart Disease
+sensitivity to light,Hepatitis
+blurry vision,Heart Disease
+chronic sore throat,Migraine
+constant itching,Anemia
+sweating excessively,Diabetes Mellitus
+itchy rash,Arthritis
+painful urination,Diabetes
+headache and nausea,Delirium
+joint swelling,Pink Eye
+swollen abdomen,Migraine
+itchy throat,Canker Sores
+frequent thirst,Angioedema
+cramps,Cirrhosis
+increased thirst,Meningitis
+unexplained weight loss,Premenstrual Syndrome
+skin discoloration,Chronic Fatigue Syndrome
+wheezing,Mononucleosis
+nausea and vomiting,Cyanosis
+constant itching,Chronic Fatigue Syndrome
+painful abdomen,Ataxia
+red eyes,Myositis
+constant itching,Heart Failure
+bloody stools,Asthma
+numbness in legs,Tremors
+painful mouth sores,Macular Degeneration
+swollen abdomen,Asthma
+blurred vision,Liver Disease
+cramps,Macular Degeneration
+sweating excessively,Arthritis
+leg swelling,Cyanosis
+high blood pressure,Scoliosis
+muscle weakness,Psoriasis
+numbness in hands,Hypertension
+high body temperature,Diabetes Mellitus
+bloody cough,Diabetes
+runny nose,Anemia
+difficulty concentrating,Rheumatoid Arthritis
+bloody stools,Heart Disease
+painful feet,Rib Fracture
+pale skin,Diabetes Mellitus
+bloody cough,Lymphoma
+stiffness in muscles,Allergic Reaction
+numb fingers,Irritable Bowel Syndrome
+painful skin,Chronic Fatigue Syndrome
+dizziness,Parkinson's Disease
+bleeding gums,Urinary Tract Infection
+shortness of breath,Parkinson's Disease
+chronic bloating,Bronchitis
+liver pain,Osteoarthritis
+pain in stomach,Migraine
+swollen joints,Hepatitis
+feeling cold,Gout
+abnormal bleeding,Hyperhidrosis
+headache and nausea,Gout
+bruising easily,Chronic Laryngitis
+red spots on skin,Hyperthyroidism
+chronic pain,Chickenpox
+stiffness in muscles,Sciatica
+increased thirst,Flu
+painful rash,Migraine
+stiffness in muscles,Vitamin C Deficiency
+painful stomach,Myasthenia Gravis
+swollen lymph nodes,Laryngitis
+irregular heartbeat,Migraine
+coughing up blood,Gout
+hair loss,Urinary Tract Infection
+painful stomach,Bladder Infection
+swelling in legs,Ascites
+frequent thirst,Diabetes
+cramps,Hepatitis
+painful urination,Gastritis
+cramps and bloating,Hyperhidrosis
+sweating excessively,Cirrhosis
+itchy skin,Premenstrual Syndrome
+painful swallowing,Vestibular Disorder
+chronic pain,Hyperthyroidism
+dizziness,Rheumatoid Arthritis
+bruising easily,Hypertension
+hunger and fatigue,GERD
+unexplained weight loss,Allergic Rhinitis
+high blood pressure,Asthma
+severe headache,Sinusitis
+painful feet,Parkinson's Disease
+lightheadedness,Atrial Fibrillation
+excessive hunger,Lung Cancer
+frequent thirst,Oral Thrush
+swelling in legs,Delirium
+chronic bloating,Tonsillitis
+itchy eyes,Arrhythmia
+heartburn,Diabetic Retinopathy
+heavy bleeding,Esophageal Varices
+painful rash,Allergic Conjunctivitis
+persistent thirst,Vitamin C Deficiency
+persistent thirst,Anemia
+confusion,Plantar Fasciitis
+heart irregularities,Arthritis
+feeling faint,Deep Vein Thrombosis
+weak pulse,Hyperhidrosis
+pain behind eyes,Alopecia
+tingling sensation,Hypothyroidism
+pale skin,Rash
+abdominal bloating,Migraine
+pelvic pain,Breast Cancer
+chronic pain,Hyperhidrosis
+irregular heartbeat,Hyperthyroidism
+stiffness in muscles,Chickenpox
+swollen joints,Esophageal Varices
+chronic bloating,Hypertension
+chronic pain,Diabetes
+bloody stool,Anxiety Disorder
+wheezing and coughing,Scoliosis
+heart irregularities,Gastroenteritis
+severe headache,Asthma
+sweaty palms,Diabetes Insipidus
+painful sores,Hypotension
+painful urination,GERD
+yellow skin,Asthma
+bleeding gums,Cyanosis
+sore throat,Pneumonia
+dark urine,Rash
+pain behind eyes,Tension Headache
+heart irregularities,Allergy
+lower back pain,Rib Fracture
+heavy bleeding,Parkinson's Disease
+bleeding gums,Seborrheic Dermatitis
+loss of appetite,Deep Vein Thrombosis
+coughing up mucus,Seborrheic Dermatitis
+mouth ulcers,Eczema
+frequent headaches,Migraine
+bleeding gums,Shingles
+chronic pain,Leukemia
+joint pain,Celiac Disease
+shortness of breath,Low Blood Sugar
+runny nose,Psoriasis
+chest pain,Asthma
+pain in stomach,Gingivitis
+vomiting,Tinnitus
+painful abdomen,Anemia
+red spots on skin,Carpal Tunnel Syndrome
+severe sweating,Asthma
+dark urine,Rib Fracture
+sweating excessively,Parkinson's Disease
+bloody cough,Shingles
+abnormal bruising,Tremors
+cough,Cyanosis
+depression,Liver Disease
+leg swelling,Arrhythmia
+unexplained weight loss,Gastroesophageal Reflux Disease
+dark urine,Glaucoma
+red rash,Migraine
+fainting,Liver Disease
+fever,Sinus Headache
+heart irregularities,Rheumatoid Arthritis
+headache,Allergic Conjunctivitis
+pain in the chest,Diabetes
+sore joints,Eczema
+coughing up blood,Cold Sores
+vomiting blood,Typhoid
+abdominal bloating,Crohn's Disease
+cramps,Rheumatoid Arthritis
+loss of appetite,GERD
+swollen lymph nodes,Chronic Fatigue Syndrome
+numbness in hands,Dehydration
+headache and nausea,Gout
+tingling sensation,Oral Thrush
+swollen joints,Breast Cancer
+blue skin,Gastroenteritis
+numb fingers,Carpal Tunnel Syndrome
+pelvic pain,Gastroesophageal Reflux Disease
+skin discoloration,Anemia
+itchy skin,Typhoid
+tiredness and dizziness,Atrial Fibrillation
+fatigue and weakness,Asthma
+extreme fatigue,Sinus Headache
+frequent urination,Major Depressive Disorder
+pelvic pain,Cluster Headache
+fever,Cyanosis
+painful abdomen,Lung Cancer
+heart palpitations,Vitamin C Deficiency
+sore mouth,Psoriasis
+painful skin,Hyperhidrosis
+red spots on skin,Liver Disease
+itchy eyes,Shingles
+frequent urination,Allergic Conjunctivitis
+runny nose,Conjunctivitis
+painful rash,Conjunctivitis
+painful abdomen,Hyperthyroidism
+stiffness in muscles,Asthma
+headache and nausea,Gingivitis
+dizziness,Myositis
+blurry vision,Migraine
+constant itching,Alopecia
+painful rash,Allergic Rhinitis
+ringing in ears,Tension Headache
+persistent fever,Hyperhidrosis
+numb fingers,Colitis
+difficulty walking,Breast Cancer
+feeling cold,Tinnitus
+muscle weakness,Rheumatoid Arthritis
+frequent headaches,Laryngitis
+sore joints,Asthma
+skin discoloration,Allergic Conjunctivitis
+dry skin,Gastritis
+bloody stool,Fever
+feeling cold,Anxiety Disorder
+wheezing and coughing,Vertigo
+difficulty breathing,Asthma
+abnormal bruising,Shingles
+stiff neck,Asthma
+painful urination,Ataxia
+numb fingers,Pharyngitis
+frequent urination,Low Blood Sugar
+bloody stool,Asthma
+heart irregularities,Urinary Tract Infection
+pain in ribs,Scoliosis
+wheezing,Diabetes
+skin discoloration,Fever
+fatigue and weakness,Diabetes
+difficulty breathing,Low Blood Pressure
+stiffness in muscles,Anemia
+itchy throat,Tremors
+lightheadedness,Carpal Tunnel Syndrome
+shortness of breath,Seborrheic Dermatitis
+leg swelling,Tremors
+intense pain in legs,Pharyngitis
+swollen abdomen,Anemia
+blue skin,Cataracts
+chronic bloating,Myositis
+difficulty swallowing,Endometriosis
+white patches in mouth,Asthma
+severe sweating,Conjunctivitis
+tingling sensation,Scoliosis
+itchy scalp,COPD
+bloody cough,Ascites
+persistent thirst,Allergic Reaction
+sensitivity to light,Allergic Reaction
+joint pain,Fever
+indigestion,Carpal Tunnel Syndrome
+tiredness,Scoliosis
+increased thirst,Sjögren's Syndrome
+high body temperature,Allergic Conjunctivitis
+blurry vision,Bladder Infection
+chronic nasal congestion,Shingles
+white patches in mouth,Hepatitis
+sweating excessively,Diabetes Mellitus
+cramps,Low Blood Sugar
+irregular heartbeat,Diabetes
+swollen lymph nodes,Sciatica
+fainting,Angioedema
+blackouts,Arthritis
+frequent urination,Psoriasis
+painful swallowing,Delirium
+indigestion,Osteoarthritis
+rash,Low Blood Pressure
+painful urination,Irritable Bowel Syndrome
+swollen abdomen,Plantar Fasciitis
+severe headache,Chronic Fatigue Syndrome
+sweating excessively,Allergy
+bloody cough,Anemia
+swollen abdomen,Myasthenia Gravis
+sweating excessively,Myositis
+ringing in ears,Cancer
+bloody stools,Rheumatoid Arthritis
+burning sensation in chest,Sinusitis
+itchy rash,Heart Failure
+skin discoloration,Esophageal Varices
+leg swelling,Celiac Disease
+painful urination,Gingivitis
+feeling faint,Atrial Fibrillation
+sensitivity to light,Pneumonia
+difficulty concentrating,Peptic Ulcer
+stiffness in muscles,Hypotension
+bleeding gums,Colitis
+persistent headache,Anemia
+persistent headache,Hepatitis
+itchy throat,Bronchitis
+unexplained weight loss,Allergic Conjunctivitis
+painful sores,Rash
+burning sensation in chest,Shingles
+painful urination,Asthma
+swollen lymph nodes,Eczema
+blurry vision,Gastritis
+heartburn,Osteoarthritis
+shortness of breath,Sinus Headache
+difficulty walking,Myositis
+swollen abdomen,Heart Failure
+depression,Meningitis
+tightness in chest,Vertigo
+tiredness and dizziness,Urinary Tract Infection
+painful urination,Oral Thrush
+stiff neck,Angioedema
+vomiting,Hyperhidrosis
+abdominal bloating,Plantar Fasciitis
+joint swelling,Gastritis
+wheezing,Colitis
+mouth ulcers,Hyperthyroidism
+blackouts,Hypertension
+persistent headache,Sciatica
+blue skin,Raynaud's Disease
+sore mouth,Bronchitis
+itchy eyes,Allergic Conjunctivitis
+blurry vision,Celiac Disease
+chronic nasal congestion,Myositis
+fatigue and weakness,Seizures
+abnormal bruising,Migraine
+chronic pain,COPD
+extreme thirst,Myasthenia Gravis
+blurry vision,Labyrinthitis
+difficulty swallowing,Heart Failure
+numb fingers,Aphthous Stomatitis
+itchy eyes,Delirium
+extreme thirst,Migraine
+excessive hunger,Anemia
+heartburn,Migraine
+chest pain,Hypotension
+stiff neck,Osteoarthritis
+blurry vision,Hypotension
+feeling anxious,Allergic Rhinitis
+persistent fever,Migraine
+intense pain in legs,Seborrheic Dermatitis
+confusion,Hyperthyroidism
+pain in ribs,Hyperhidrosis
+pain in the chest,Breast Cancer
+loss of appetite,COPD
+bleeding gums,Vitamin C Deficiency
+chronic pain,Fibromyalgia
+loss of appetite,Allergic Rhinitis
+wheezing,Low Blood Pressure
+pelvic pain,Sjögren's Syndrome
+excessive thirst,Leukemia
+mouth ulcers,Cold Sores
+dry eyes,Sciatica
+fainting,Allergic Conjunctivitis
+frequent thirst,Psoriasis
+severe headache,Canker Sores
+cough,Scoliosis
+itchy scalp,Major Depressive Disorder
+sore joints,Sjögren's Syndrome
+blurry vision,Anemia
+bloody cough,Diabetes Mellitus
+feeling anxious,Gastritis
+nausea and dizziness,Endometriosis
+painful sores,Migraine
+tingling sensation,Bladder Infection
+frequent thirst,Gout
+frequent headaches,Gastroesophageal Reflux Disease
+persistent headache,Conjunctivitis
+shortness of breath,Chronic Fatigue Syndrome
+dry skin,Colitis
+cramps and bloating,Delirium
+itchy eyes,Tension Headache
+chronic bloating,Anemia
+swollen joints,Shingles
+swollen joints,Leukemia
+frequent urination,Chronic Laryngitis
+chronic bloating,Chronic Fatigue Syndrome
+nausea and vomiting,Pneumonia
+difficulty concentrating,Diabetes
+confusion,Arrhythmia
+painful mouth sores,Macular Degeneration
+excessive hunger,ADHD
+sensitivity to light,Achalasia
+leg swelling,Rash
+constant itching,Hyperthyroidism
+depression,Irritable Bowel Syndrome
+painful skin,Anxiety Disorder
+itchy rash,Low Blood Pressure
+muscle weakness,Pneumonia
+tiredness,Pink Eye
+swelling in legs,Diabetes
+headache and nausea,Diabetic Neuropathy
+excessive thirst,Alopecia
+severe headache,Anxiety Disorder
+feeling cold,Diabetes
+persistent thirst,Achalasia
+dizziness,Pneumonia
+head shaking,Hyperhidrosis
+dizziness,Gout
+coughing up blood,Anemia
+red eyes,Hyperhidrosis
+fainting,Aphthous Stomatitis
+confusion,Bladder Infection
+muscle cramps,Glaucoma
+abnormal bleeding,Migraine
+feeling cold,Tension Headache
+leg swelling,Diabetes
+burning sensation in chest,Asthma
+leg swelling,Asthma
+sore joints,Fibromyalgia
+tingling sensation,Hepatitis
+persistent fever,Gastroenteritis
+cramps,Hyperhidrosis
+joint swelling,Hyperthyroidism
+feeling anxious,Angina
+increased thirst,Conjunctivitis
+painful feet,Tension Headache
+pale skin,Parkinson's Disease
+constant itching,Tension Headache
+blackouts,Hypertension
+joint pain,Angina
+itchy scalp,Vestibular Disorder
+wheezing and coughing,Sinus Headache
+dizziness,Anemia
+chronic fatigue,Heart Disease
+heavy bleeding,Eczema
+difficulty swallowing,Cataracts
+frequent urination,Hypothyroidism
+painful stomach,Bronchitis
+severe headache,Carpal Tunnel Syndrome
+bruising easily,Hemophilia
+white patches in mouth,Shingles
+dizziness,Diabetic Retinopathy
+itchy eyes,GERD
+swollen abdomen,Tremors
+white patches in mouth,Cluster Headache
+swollen joints,Allergic Conjunctivitis
+chronic sore throat,Aphthous Stomatitis
+difficulty concentrating,Hypothyroidism
+frequent thirst,Anemia
+sweaty palms,Cirrhosis
+red eyes,Chickenpox
+feeling faint,Hyperthyroidism
+cramps and bloating,Eczema
+tiredness,Shingles
+painful abdomen,Bronchitis
+chronic nasal congestion,Irritable Bowel Syndrome
+tightness in chest,GERD
+fatigue,Appendicitis
+constant itching,Diabetes
+heartburn,Asthma
+dark urine,Meningitis
+pain behind eyes,Hypotension
+blurred vision,Atrial Fibrillation
+persistent diarrhea,Migraine
+itchy throat,Diabetes
+sore mouth,Tonsillitis
+painful abdomen,Vertigo
+itchy eyes,Cancer
+ringing in ears,Raynaud's Disease
+bloody cough,Vertigo
+persistent diarrhea,Fibromyalgia
+dark urine,Diabetes Mellitus
+abdominal bloating,Gallstones
+coughing up blood,Asthma
+painful back,Lung Cancer
+joint swelling,Allergic Conjunctivitis
+lightheadedness,Diabetes
+high cholesterol,Diabetes Insipidus
+excessive thirst,Diabetes
+chest pain,Hypotension
+hair loss,Vitamin K Deficiency
+itchy eyes,Arthritis
+chest pain,Leukoplakia
+itchy eyes,Dehydration
+muscle cramps,Breast Cancer
+chronic pain,ADHD
+chronic sore throat,Angioedema
+chronic sore throat,Migraine
+painful sores,Chronic Fatigue Syndrome
+painful mouth sores,Gallstones
+painful swallowing,Diabetic Retinopathy
+abdominal bloating,Lung Cancer
+excessive hunger,Atrial Fibrillation
+shortness of breath,Irritable Bowel Syndrome
+red eyes,Conjunctivitis
+feeling faint,Hepatitis
+yellow skin,Psoriasis
+coughing up blood,Asthma
+muscle weakness,Pneumonia
+persistent headache,Atrial Fibrillation
+coughing up mucus,Anemia
+coughing up blood,Vitamin C Deficiency
+bruising easily,Appendicitis
+joint swelling,Hypertension
+red rash,Rib Fracture
+painful feet,Psoriasis
+bloody stools,Diabetes
+wheezing,Plantar Fasciitis
+swollen abdomen,COPD
+persistent fever,Vestibular Disorder
+fever,Shingles
+abnormal bleeding,Cold Sores
+itchy eyes,Scoliosis
+persistent diarrhea,Hyperhidrosis
+yellow skin,Anemia
+pain in stomach,Colorectal Cancer
+joint swelling,Allergic Reaction
+confusion,Tinnitus
+shaking hands,Atrial Fibrillation
+bruising easily,Myasthenia Gravis
+coughing up blood,Hemophilia
+itchy rash,Vestibular Disorder
+swelling in legs,Hypertension
+chronic pain,Tonsillitis
+intense pain in legs,Bronchitis
+pale skin,Lung Cancer
+muscle weakness,Allergic Conjunctivitis
+leg swelling,Dehydration
+persistent fever,Colorectal Cancer
+frequent headaches,Lung Cancer
+wheezing,Irritable Bowel Syndrome
+unexplained bruising,Asthma
+blurry vision,Hypothyroidism
+difficulty concentrating,Lung Cancer
+abnormal bruising,Peripheral Artery Disease
+depression,Sinus Headache
+pain in ribs,Asthma
+dry skin,Oral Thrush
+nausea,Deep Vein Thrombosis
+runny nose,Rash
+coughing up blood,Colorectal Cancer
+painful mouth sores,GERD
+hair loss,Hypothyroidism
+numbness in hands,Hyperthyroidism
+fatigue,Electrolyte Imbalance
+bloody stools,Raynaud's Disease
+frequent headaches,Seizures
+painful sores,Angina
+blurry vision,Colorectal Cancer
+burning sensation in chest,Ataxia
+bleeding gums,Low Blood Pressure
+heart irregularities,Asthma
+frequent headaches,Sciatica
+slow healing wounds,Rheumatoid Arthritis
+chronic sore throat,Raynaud's Disease
+swollen lymph nodes,Endometriosis
+severe sweating,Parkinson's Disease
+chronic pain,Chickenpox
+heart irregularities,Rash
+liver pain,Urinary Tract Infection
+bloody stools,Heart Disease
+cold hands,Atrial Fibrillation
+red spots on skin,Crohn's Disease
+runny nose,Mononucleosis
+fatigue,Hyperhidrosis
+itchy eyes,Bladder Infection
+chest pain,Major Depressive Disorder
+tightness in chest,Leukemia
+blurred vision,Asthma
+itchy scalp,Leukemia
+dry eyes,Scoliosis
+swollen joints,Irritable Bowel Syndrome
+ringing in ears,Rib Fracture
+coughing up blood,Myositis
+joint pain,Allergic Reaction
+depression,Aphthous Stomatitis
+nausea and dizziness,Chronic Laryngitis
+pain in ribs,Osteoarthritis
+abnormal bruising,Cirrhosis
+blurry vision,Atrial Fibrillation
+fainting,Liver Disease
+mouth ulcers,Endometriosis
+extreme fatigue,Macular Degeneration
+excessive thirst,Bronchitis
+pain in the chest,Fever
+swollen lymph nodes,Allergic Conjunctivitis
+swollen joints,Chronic Fatigue Syndrome
+painful stomach,Diabetes Insipidus
+stiff neck,GERD
+coughing up blood,Canker Sores
+swollen face,Rheumatoid Arthritis
+fatigue and weakness,Tinnitus
+vomiting,Low Blood Sugar
+dry skin,Alopecia
+coughing up blood,Parkinson's Disease
+swollen joints,Lymphoma
+abdominal bloating,Hypertension
+cramps and bloating,Hyperhidrosis
+ringing in ears,Allergy
+feeling cold,Tension Headache
+ringing in ears,Rheumatoid Arthritis
+indigestion,Colorectal Cancer
+pain behind eyes,Migraine
+difficulty walking,Mononucleosis
+chronic fatigue,Arthritis
+red eyes,Osteoarthritis
+difficulty breathing,Meningitis
+swollen lymph nodes,ADHD
+red eyes,Irritable Bowel Syndrome
+tingling sensation,Osteoarthritis
+heartburn,Hypothyroidism
+increased thirst,Dehydration
+frequent urination,Hyperhidrosis
+itchy skin,ADHD
+persistent thirst,Migraine
+difficulty swallowing,Hypotension
+wheezing,Tremors
+high cholesterol,Pink Eye
+red spots on skin,Chronic Fatigue Syndrome
+coughing up blood,Anxiety Disorder
+high blood pressure,Pharyngitis
+painful rash,Fever
+frequent urination,Meningitis
+dark urine,Cataracts
+weak pulse,Hyperhidrosis
+blurred vision,Hyperlipidemia
+swelling in legs,Allergic Conjunctivitis
+coughing up mucus,Crohn's Disease
+dry skin,Angina
+vomiting blood,Celiac Disease
+coughing up blood,Macular Degeneration
+headache and nausea,Conjunctivitis
+chronic cough,Anxiety Disorder
+difficulty breathing,Vitamin C Deficiency
+blue skin,Allergy
+pain in ribs,Angina
+slow healing wounds,Hypothyroidism
+itchy rash,Diabetes
+white patches in mouth,Anemia
+red eyes,Shingles
+itchy throat,Anemia
+coughing up blood,Celiac Disease
+coughing up blood,Hypotension
+joint swelling,Major Depressive Disorder
+sore joints,Scoliosis
+dark urine,Eczema
+swollen lymph nodes,Atrial Fibrillation
+feeling anxious,Breast Cancer
+stiffness in muscles,Crohn's Disease
+coughing up blood,Urinary Tract Infection
+tingling sensation,Seizures
+painful abdomen,Tremors
+chronic pain,Arthritis
+itchy skin,Migraine
+itchy eyes,Asthma
+feeling anxious,Irritable Bowel Syndrome
+shaking hands,Ataxia
+dark urine,Gout
+chronic bloating,Vitamin K Deficiency
+dark urine,Raynaud's Disease
+painful back,Heart Failure
+heart palpitations,Esophageal Varices
+irregular heartbeat,Anemia
+shortness of breath,Angioedema
+high blood pressure,Scoliosis
+tiredness,Diabetes
+cold hands,Tinnitus
+head shaking,Low Blood Pressure
+pale skin,Gastroenteritis
+heavy bleeding,Bladder Infection
+liver pain,Peripheral Artery Disease
+blurred vision,Diabetes
+ringing in ears,Tension Headache
+painful swallowing,Allergic Conjunctivitis
+leg swelling,Ataxia
+nausea,Hyperthyroidism
+frequent thirst,Diabetic Retinopathy
+rash,Breast Cancer
+tightness in chest,Asthma
+nausea and dizziness,Major Depressive Disorder
+sore joints,Atrial Fibrillation
+cramps,Hyperhidrosis
+nausea,Gout
+painful abdomen,Gout
+painful abdomen,Arrhythmia
+blurred vision,Diabetes Mellitus
+persistent thirst,Asthma
+coughing up blood,Tremors
+hoarseness,Rib Fracture
+chronic pain,Myositis
+confusion,Raynaud's Disease
+itchy skin,Rash
+sore joints,Rheumatoid Arthritis
+itchy eyes,Flu
+abdominal pain,Tension Headache
+feeling cold,Cold Sores
+lack of coordination,Migraine
+hoarseness,Dehydration
+cramps and bloating,Rib Fracture
+headache,Oral Thrush
+painful feet,Urinary Tract Infection
+painful feet,Lung Cancer
+blackouts,Delirium
+persistent thirst,Irritable Bowel Syndrome
+painful feet,Psoriasis
+ringing in ears,Sciatica
+sore joints,Endometriosis
+numbness in legs,Gingivitis
+increased thirst,Bronchitis
+unexplained bruising,Premenstrual Syndrome
+head shaking,Mononucleosis
+coughing up mucus,Allergy
+abnormal bleeding,Fibromyalgia
+blurry vision,Hemophilia
+feeling cold,Hyperthyroidism
+blue skin,Dehydration
+muscle weakness,Alopecia
+sore mouth,Asthma
+tiredness and dizziness,Hypotension
+stiffness in muscles,Tremors
+skin discoloration,Peripheral Artery Disease
+painful stomach,Migraine
+severe sweating,Crohn's Disease
+fainting,Myositis
+blurred vision,Irritable Bowel Syndrome
+coughing up blood,Delirium
+nausea,Hyperhidrosis
+headache and nausea,Shingles
+hair loss,Allergic Rhinitis
+painful stomach,Peripheral Artery Disease
+extreme fatigue,Diabetes
+painful urination,Scoliosis
+dry eyes,GERD
+painful abdomen,Migraine
+white patches in mouth,Cataracts
+red eyes,Heart Disease
+swelling in legs,Diabetic Neuropathy
+blurry vision,Peripheral Artery Disease
+chronic pain,Diabetes
+chronic pain,Lung Cancer
+tingling sensation,Migraine
+blurry vision,Esophageal Varices
+persistent fever,Flu
+chronic pain,Myasthenia Gravis
+joint swelling,Diabetic Neuropathy
+coughing up blood,Pharyngitis
+severe sweating,Rheumatoid Arthritis
+confusion,Labyrinthitis
+pelvic pain,Electrolyte Imbalance
+swollen face,Colorectal Cancer
+tingling sensation,Esophageal Varices
+itchy rash,Typhoid
+chronic bloating,Angina
+difficulty walking,Macular Degeneration
+painful rash,Alopecia
+numb fingers,Sciatica
+swollen lymph nodes,Cold Sores
+skin discoloration,Myasthenia Gravis
+heavy bleeding,Cirrhosis
+wheezing and coughing,Gout
+feeling faint,Glaucoma
+difficulty breathing,Cataracts
+hunger and fatigue,Seizures
+fatigue,Eczema
+pain in the chest,Cataracts
+bloody cough,Atrial Fibrillation
+nausea,Anemia
+pale skin,Laryngitis
+blue skin,Laryngitis
+lump in breast,Allergic Conjunctivitis
+hair loss,Gastroesophageal Reflux Disease
+persistent diarrhea,Leukoplakia
+painful swallowing,Plantar Fasciitis
+excessive hunger,Eczema
+itchy rash,Hepatitis
+wheezing,Meningitis
+white patches in mouth,Cancer
+chronic cough,Anxiety Disorder
+skin discoloration,Mononucleosis
+swollen face,Macular Degeneration
+swollen joints,Allergic Rhinitis
+chronic bloating,Irritable Bowel Syndrome
+unexplained bruising,Angina
+itchy eyes,Diabetes
+leg swelling,Flu
+high body temperature,Tension Headache
+bruising easily,Pneumonia
+excessive thirst,Leukoplakia
+confusion,Asthma
+skin discoloration,Atrial Fibrillation
+nausea and dizziness,Cataracts
+lack of coordination,Urinary Tract Infection
+red eyes,Diabetes
+swollen lymph nodes,Breast Cancer
+pain in stomach,Vestibular Disorder
+skin discoloration,Anemia
+numbness in hands,Peripheral Artery Disease
+chronic pain,Crohn's Disease
+abdominal bloating,Ataxia
+abdominal pain,Hypotension
+fever,Gingivitis
+swollen lymph nodes,Fever
+red eyes,Tinnitus
+chronic cough,Hyperhidrosis
+persistent diarrhea,Alopecia
+tightness in chest,Shingles
+numb fingers,Anemia
+heartburn,Tinnitus
+coughing up blood,Anemia
+itchy eyes,Vestibular Disorder
+frequent urination,Ascites
+blurry vision,Hypothyroidism
+high cholesterol,Hyperthyroidism
+slow healing wounds,Rib Fracture
+severe headache,Macular Degeneration
+frequent thirst,Hyperhidrosis
+pain behind eyes,Diabetes
+abdominal bloating,Arthritis
+itchy eyes,Raynaud's Disease
+itchy skin,Hyperhidrosis
+dry skin,Hypotension
+high blood pressure,Anemia
+pain behind eyes,Labyrinthitis
+shaking hands,Parkinson's Disease
+blue skin,Scoliosis
+extreme thirst,Bladder Infection
+wheezing,Asthma
+chest pain,Glaucoma
+fever,Pink Eye
+itchy scalp,Myasthenia Gravis
+white patches in mouth,Sjögren's Syndrome
+heavy bleeding,Diabetes Mellitus
+heartburn,Diabetes
+head shaking,Conjunctivitis
+painful mouth sores,Hyperhidrosis
+muscle weakness,Labyrinthitis
+stiff neck,Plantar Fasciitis
+hunger and fatigue,Pharyngitis
+cramps and bloating,Hyperhidrosis
+fever,Endometriosis
+difficulty concentrating,Fever
+bloody stool,Leukoplakia
+nausea,Labyrinthitis
+increased thirst,Meningitis
+swollen abdomen,Diabetes Mellitus
+painful rash,Allergic Conjunctivitis
+rash,Pneumonia
+heavy bleeding,Gastritis
+dark urine,Cancer
+confusion,Leukoplakia
+increased thirst,Allergic Conjunctivitis
+unexplained weight loss,Seborrheic Dermatitis
+heavy bleeding,Oral Thrush
+feeling anxious,Urinary Tract Infection
+blurred vision,Gallstones
+muscle weakness,Gout
+slow healing wounds,Migraine
+numbness in legs,Chronic Laryngitis
+slow healing wounds,Plantar Fasciitis
+wheezing,Anemia
+lump in breast,Fibromyalgia
+lump in breast,ADHD
+feeling cold,Allergic Reaction
+itchy throat,Ataxia
+shaking hands,Oral Thrush
+frequent headaches,Arthritis
+chronic pain,Atrial Fibrillation
+high cholesterol,Hyperthyroidism
+increased thirst,Rheumatoid Arthritis
+tingling sensation,Lymphoma
+feeling faint,Allergy
+abnormal bleeding,Allergic Conjunctivitis
+pain in stomach,Ataxia
+cramps and bloating,Diabetes Insipidus
+numbness in hands,Scoliosis
+heavy bleeding,Asthma
+difficulty swallowing,Lymphoma
+tiredness and dizziness,Allergic Conjunctivitis
+painful urination,Breast Cancer
+hair loss,Asthma
+bloody cough,Ascites
+bloody cough,Seizures
+frequent thirst,Achalasia
+sore joints,Anemia
+blackouts,Allergic Conjunctivitis
+chronic bloating,Atrial Fibrillation
+wheezing,Anemia
+skin discoloration,Leukoplakia
+chronic pain,COPD
+hair loss,Fever
+sore mouth,Diabetes
+nausea and vomiting,Tension Headache
+difficulty breathing,Colorectal Cancer
+increased thirst,Diabetic Neuropathy
+sweaty palms,Hypothyroidism
+hair loss,Cold Sores
+lump in breast,Arrhythmia
+itchy rash,Hepatitis
+swelling in legs,Cirrhosis
+hoarseness,Canker Sores
+difficulty concentrating,Asthma
+abnormal bruising,Diabetes
+chronic pain,Diabetes
+weak pulse,Bronchitis
+vomiting blood,Hypothyroidism
+bloody cough,Vitamin K Deficiency
+vomiting blood,Deep Vein Thrombosis
+itchy throat,Ascites
+painful urination,Dehydration
+feeling faint,Bronchitis
+swollen joints,Electrolyte Imbalance
+coughing up mucus,Anemia
+itchy eyes,Migraine
+rash,Heart Failure
+swollen face,Rash
+skin discoloration,Heart Failure
+persistent headache,Laryngitis
+feeling cold,GERD
+severe headache,Achalasia
+intense pain in legs,Hyperlipidemia
+blurry vision,Migraine
+blurred vision,Gastroesophageal Reflux Disease
+persistent headache,Psoriasis
+wheezing and coughing,Premenstrual Syndrome
+lack of coordination,Celiac Disease
+itchy rash,Seizures
+fatigue and weakness,Hyperlipidemia
+nausea and dizziness,Alopecia
+painful joints,Cancer
+blue skin,Hyperthyroidism
+nausea and vomiting,Irritable Bowel Syndrome
+head shaking,Tension Headache
+painful urination,Sciatica
+tiredness,Alopecia
+chronic pain,Vitamin C Deficiency
+frequent urination,Vitamin K Deficiency
+pain in the chest,Hyperthyroidism
+lump in breast,Urinary Tract Infection
+irregular heartbeat,Hyperthyroidism
+blurry vision,Leukemia
+itchy scalp,Shingles
+cramps and bloating,Hyperhidrosis
+blue skin,Sinus Headache
+itchy eyes,Cyanosis
+heart irregularities,Hypotension
+wheezing and coughing,Hyperhidrosis
+hair loss,Migraine
+blurred vision,Diabetes
+head shaking,Atrial Fibrillation
+wheezing and coughing,Hyperhidrosis
+coughing up blood,Deep Vein Thrombosis
+bloody cough,Seizures
+difficulty breathing,Low Blood Sugar
+frequent headaches,Ascites
+numbness in legs,Tonsillitis
+fatigue and weakness,Asthma
