@@ -1,0 +1,167 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>health recommendation system</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <style>
+      body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f1f3f5;
+        color: #343a40;
+      }
+      h2 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #007bff;
+        margin-bottom: 2rem;
+        text-align: center;
+      }
+      h3 {
+        font-size: 1.8rem;
+        color: #0056b3;
+        cursor: pointer;
+        padding: 15px;
+        margin-top: 2rem;
+        transition: color 0.3s, background-color 0.3s;
+        border-radius: 5px;
+      }
+      h3:hover {
+        color: #ffffff;
+        background-color: #007bff;
+      }
+      p, ul, ol {
+        font-size: 1.1rem;
+        line-height: 1.8;
+        margin-bottom: 1.5rem;
+      }
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .intro {
+        text-align: center;
+        margin-bottom: 2rem;
+        font-style: italic;
+      }
+      .highlight {
+        color: #28a745;
+        font-weight: bold;
+      }
+      .feature-card {
+        background-color: #ffffff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        margin-bottom: 1.5rem;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .feature-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      }
+      .feature-card-header {
+        background-color: #007bff;
+        color: white;
+        padding: 15px;
+        border-radius: 8px 8px 0 0;
+      }
+      .collapse {
+        padding-left: 20px;
+        background-color: #f9f9f9;
+        border-left: 5px solid #007bff;
+        display: none;
+        margin-bottom: 10px;
+        border-radius: 0 0 8px 8px;
+      }
+      footer {
+        text-align: center;
+        padding: 20px;
+        background-color: #343a40;
+        color: white;
+        margin-top: 3rem;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="intro">
+        <h2>Data Science with Healthcare: Unveiling Our Symptom-Based Disease Diagnosis Web App</h2>
+        <p>Exploring the integration of technology and healthcare, our innovative web application brings a seamless solution to diagnosing diseases based on symptoms.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card-header">
+          <h3 onclick="toggleSection('challenge')">The Challenge</h3>
+        </div>
+        <div id="challenge" class="collapse">
+          <p>Identifying the root cause of symptoms can often be perplexing. We aimed to bridge this gap by creating an accessible and user-friendly platform that provides instant, accurate predictions based on reported symptoms.</p>
+        </div>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card-header">
+          <h3 onclick="toggleSection('solution')">The Solution</h3>
+        </div>
+        <div id="solution" class="collapse">
+          <p>Our web app combines the power of machine learning and Flask to deliver an efficient disease diagnosis solution:</p>
+          <ol>
+            <li><b><span class="highlight">Symptom Input:</span></b> Users input symptoms through an intuitive interface.</li>
+            <li><b><span class="highlight">Machine Learning Model:</span></b> A Decision Tree Classifier model processes the data to predict the most likely disease.</li>
+            <li><b><span class="highlight">Prediction:</span></b> Instant predictions based on the user's symptom inputs are generated.</li>
+            <li><b><span class="highlight">Additional Information:</span></b> Detailed info on the predicted disease, including treatment and precautions, is displayed.</li>
+            <li><b><span class="highlight">Speech Recognition:</span></b> Users can input symptoms through voice commands for added convenience.</li>
+            <li><b><span class="highlight">User Records:</span></b> The app allows users to save their details for future reference and personalized tracking.</li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card-header">
+          <h3 onclick="toggleSection('features')">Key Features</h3>
+        </div>
+        <div id="features" class="collapse">
+          <ul>
+            <li><b><span class="highlight">User-Friendly Interface:</span></b> Simple and easy navigation for a smooth experience.</li>
+            <li><b><span class="highlight">Synonym Recognition:</span></b> The app intelligently handles variations in symptom descriptions.</li>
+            <li><b><span class="highlight">Precise Predictions:</span></b> Accurate predictions based on data-driven machine learning models.</li>
+            <li><b><span class="highlight">Comprehensive Insights:</span></b> Additional information on the disease for better awareness.</li>
+            <li><b><span class="highlight">Educational Resources:</span></b> Blog posts and resources for users to learn more about health topics.</li>
+            <li><b><span class="highlight">Voice Input:</span></b> Speech recognition for an easier and hands-free experience.</li>
+            <li><b><span class="highlight">User Record Management:</span></b> Personal health history tracking for users.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-card-header">
+          <h3 onclick="toggleSection('conclusion')">Conclusion</h3>
+        </div>
+        <div id="conclusion" class="collapse">
+          <p>Our Symptom-Based Disease Diagnosis Web App is a transformative tool that leverages the power of machine learning to empower individuals with quick, reliable health insights. We believe this platform will significantly enhance access to healthcare, offering users valuable knowledge and improving their overall well-being.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <p>&copy; 2025 Symptom Diagnosis Web App. All Rights Reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <script>
+      function toggleSection(id) {
+        var section = document.getElementById(id);
+        if (section.style.display === "none" || section.style.display === "") {
+          section.style.display = "block";
+          section.style.transition = "all 0.5s ease-in-out";
+        } else {
+          section.style.display = "none";
+        }
+      }
+    </script>
+  </body>
+</html>
